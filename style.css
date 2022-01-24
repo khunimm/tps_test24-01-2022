@@ -262,7 +262,7 @@ section{
 
 .about .content .title{
    font-size: 4rem;
-   color:var(--white);
+   color:var(--orange);
 }
 
 .about .content p{
@@ -287,8 +287,12 @@ section{
 }
 
 .about .content .icons-container .icons img{
-   height: 5rem;
+   height: 7rem;
 }
+
+.about .content .icons-container .iconscar img{
+    height: 20rem;
+ }
 
 .about .content .icons-container .icons h3{
    padding-top: 1rem;
